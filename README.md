@@ -89,3 +89,5 @@ UI / UX
 衝突形状（Sphere / Capsule / Mesh）の追加
 
 改善はすべて 既存構造を壊さず拡張できる形で設計しています。
+
+<img width="1272" height="993" alt="スクリーンショット 2026-05-09 200739" src="https://github.com/user-attachments/assets/1a76d22c-fc62-4eb1-aaf1-5e3aa9066223" />
